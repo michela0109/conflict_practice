@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 2023/06/01 09:38
+=======
+2023/06/01 09:44
+>>>>>>> main
 
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
 
